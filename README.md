@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Estudante de programção com foco em front-end:
+- Estudante de programação com foco em front-end:
 
 Skills:
 <br><br>
